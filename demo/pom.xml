@@ -18,10 +18,16 @@
     <artifactId>demo</artifactId>
     <dependencies>
         <dependency>
+
+            <groupId>My_utils</groupId>
+            <artifactId>utils</artifactId>
+            <version>1.3.5</version>
+
             <groupId>maven.utils</groupId>
             <artifactId>utils</artifactId>
             <version>1.0-SNAPSHOT</version>
             <scope>compile</scope>
+
         </dependency>
         <dependency>
             <groupId>org.junit.jupiter</groupId>
